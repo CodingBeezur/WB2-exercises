@@ -7,4 +7,4 @@ let widthOfRectangle = 10; //value can be changed
 const areaOfRectangle = lengthOfRectangle * widthOfRectangle; //formula for the area of a rectangle. 
 
 console.log(areaOfRectangle); 
-console.log( "the area of the rectangle is: " + areaOfRectangle);
+console.log( "the area of the rectangle is " + areaOfRectangle);

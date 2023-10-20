@@ -10,7 +10,6 @@ switch (department) {
     case 10:
          departmentName = "Acounting";
         break;
-
     case 12:
          departmentName = "Legal";
          break;
